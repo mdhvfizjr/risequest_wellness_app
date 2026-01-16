@@ -1,0 +1,25 @@
+# Flutter
+**/android/**/gradle-wrapper.jar
+**/ios/.generated/
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# Android
+**/android/**/Local.properties
+**/android/**/gradlew
+**/android/**/gradlew.bat
+
+# IntelliJ
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Visual Studio Code
+.vscode/
